@@ -179,7 +179,7 @@ If you use our code or find TCF useful in your work, please cite our paper as:
 }
 ```
 
-## More results on NDCG10
+## Additional Results
 
 **Table 1: Accuracy (NDCG@10) comparison of IDCF and TCF using DSSM and SASRec. _FR_ represents using frozen LM, while _FT_  represents using fine-tuned LM.**
 ![ID vs TCF](https://github.com/anonymous-TCF/anonymous-TCF/blob/main/Figures/Table_IDvsLLM_NDCG1.jpg)
